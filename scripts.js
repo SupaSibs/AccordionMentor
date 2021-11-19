@@ -1,4 +1,5 @@
-"use strict"
+
+"use strict";
 function show() {
   let x = document.getElementById("x");
   if (x.style.display === "none") {
@@ -22,7 +23,7 @@ function show1() {
 }
 function show2() {
     let x2 = document.getElementById("x2");
-      if (x.style.display === "none") {
+      if (x2.style.display === "none") {
     x2.style.display = "block";
     
   }
