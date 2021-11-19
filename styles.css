@@ -1,5 +1,6 @@
 body {
   background: linear-gradient(#af67e9, #6565e7);
+  height: 100vh;
 }
 p {display: none;}
 button {
