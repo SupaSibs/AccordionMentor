@@ -1,3 +1,4 @@
+"use strict"
 function show() {
   let x = document.getElementById("x");
   if (x.style.display === "none") {
