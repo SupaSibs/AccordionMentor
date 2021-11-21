@@ -7,6 +7,9 @@ button {
   border: none;
 background-color: white;
   }
+  main {
+    align-items: center;
+  }
   .gridlayout {
     border: solid white;
     display: grid;
@@ -14,4 +17,5 @@ background-color: white;
     justify-content: center;
     grid-template-rows: repeat(2, 50%);
     grid-template-columns: repeat(5, 20%);
+    height: 40em;
   }
