@@ -12,6 +12,6 @@ background-color: white;
     display: grid;
     align-items: center;
     justify-content: center;
-    grid-template-rows: 
-    grid-template-columns: ;
+    grid-template-rows: repeat(2, 50%);
+    grid-template-columns: repeat(5, 20%);
   }
