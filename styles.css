@@ -7,3 +7,10 @@ button {
   border: none;
 background-color: white;
   }
+  .gridlayout {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-rows: 
+    grid-template-columns: ;
+  }
