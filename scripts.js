@@ -29,7 +29,7 @@ function show2() {
     x2.style.display = "block";
     
   }
-  else {}
+  else {
     x2.style.display = "none";
     
   }
