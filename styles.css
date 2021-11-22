@@ -27,11 +27,11 @@ background-color: white;
   }
 
    .mainClasses {
-
-    align-items: center;
+    display: flex;
+     align-items: center;
 
     justify-content: center;
-
+    
   }
 
   .gridLayout {
