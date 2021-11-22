@@ -28,9 +28,12 @@ background-color: white;
 
    .mainClasses {
     display: flex;
+     
      align-items: center;
 
     justify-content: center;
+     
+     
     
   }
 
@@ -44,7 +47,7 @@ background-color: white;
 
     grid-template-rows: repeat(2, 100%);
 
-    grid-template-columns: repeat(5, 20%);
+    grid-template-columns: repeat(5, 50%);
 
     height: 40em;
 
