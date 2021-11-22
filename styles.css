@@ -9,13 +9,14 @@ background-color: white;
   }
   main {
     align-items: center;
+    justify-content: center;
   }
   .gridlayout {
     border: solid white;
     display: grid;
     align-items: center;
-    justify-content: center;
     grid-template-rows: repeat(2, 50%);
     grid-template-columns: repeat(5, 20%);
     height: 40em;
+    width:  62em;
   }
